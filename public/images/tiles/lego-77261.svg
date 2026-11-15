@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200" role="img" aria-label="Ferrari 499P — studio photo in progress">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c8102e"/><stop offset="1" stop-color="#6e0919"/></linearGradient>
+<pattern id="s" width="120" height="120" patternUnits="userSpaceOnUse"><circle cx="60" cy="65" r="37" fill="rgba(0,0,0,0.13)"/><circle cx="60" cy="58" r="37" fill="rgba(255,255,255,0.07)"/></pattern>
+</defs>
+<rect width="1200" height="1200" fill="url(#g)"/>
+<rect width="1200" height="1200" fill="url(#s)"/>
+<text x="600" y="872" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="290" font-weight="700" fill="#ffffff" opacity="0.12">77261</text>
+<g text-anchor="middle" fill="#ffffff">
+<text x="600" y="296" font-family="Helvetica, Arial, sans-serif" font-size="29" letter-spacing="8" opacity="0.85">LEGO® SPEED CHAMPIONS · 2026</text>
+<rect x="578" y="332" width="44" height="6" rx="3" fill="#ffd84d"/>
+<text x="600" y="500" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="116">Ferrari 499P</text>
+<text x="600" y="580" font-family="Georgia, 'Times New Roman', serif" font-size="52" opacity="0.9">Le Mans Hypercar</text>
+<text x="600" y="972" font-family="Helvetica, Arial, sans-serif" font-size="27" letter-spacing="7" opacity="0.8">329 PIECES</text>
+<text x="600" y="1016" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="6" opacity="0.6">STUDIO PHOTO IN PROGRESS</text>
+</g>
+</svg>

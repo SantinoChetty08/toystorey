@@ -1,0 +1,19 @@
+# Dependencies and build output
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Secrets and local settings. Real keys never belong in the repository:
+# Paddle automatically revokes API keys it finds in public repos.
+.env
+.env.*
+!.env.example
+
+# Logs and OS/editor files
+npm-debug.log*
+.DS_Store
+.vercel
+.idea/
+.vscode/
